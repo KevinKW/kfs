@@ -1,0 +1,8 @@
+ChangeLog:
+v0.1.1
+  - First version of mkfs
+  - No syslog output
+  - using O_EXCL
+v0.2.0
+  - Mount by using fuse
+  - stat root directory
